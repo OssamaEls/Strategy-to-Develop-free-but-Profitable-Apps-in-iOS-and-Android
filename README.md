@@ -1,4 +1,4 @@
-# Strategy-to-Develop-free-but-Profitable-Apps-in-the-App-Store-and-Google-Play-Markets
+# Strategy-to-Develop-free-but-Profitable-Apps-in-iOS-and-Android
 
 In this project, we pretend we're working as data analysts for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store.
 
